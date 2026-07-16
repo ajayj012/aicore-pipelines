@@ -10,7 +10,7 @@ executables.ai.sap.com/name: "Hello Pipeline"
 labels:
 scenarios.ai.sap.com/id: "learning"
 ai.sap.com/version: "1.0"
-pec:
+spec:
 entrypoint: mypipeline
 templates:
 - name: mypipeline
