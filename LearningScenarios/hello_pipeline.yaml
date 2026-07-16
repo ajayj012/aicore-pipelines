@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: WorkflowTemplate
 metadata:
-  name: first-pipeline-1234 # executable id (must be globally unique per AI Core tenant)
+  name: ajayj012first-pipeline-1234 # executable id (must be globally unique per AI Core tenant)
   annotations:
     scenarios.ai.sap.com/description: "Introduction to SAP AI Core"
     scenarios.ai.sap.com/name: "Tutorial"
